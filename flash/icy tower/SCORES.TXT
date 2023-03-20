@@ -1,0 +1,20 @@
+Icy Tower Highscore file
+------------------------
+
+This is the encrypted highscore list.  Each line here
+has the format <name floor score code code code ...>.
+
+For uploading and instrutions, visit www.freelunchdesign.com
+and click Icy Tower.
+
+
+RAM 0240 005518 0553 0120 0000 2131 1037 2392 0001 0553
+
+RAM 0172 005148 0431 2504 0000 0405 0001 2392 0001 0553
+
+RAM 0178 004537 1275 0344 0000 1475 0001 2392 0001 0553
+
+RAM 0227 004362 1039 1320 0000 0033 1037 2392 0001 0553
+
+RAN 0207 004333 1485 1320 0000 0717 1037 1346 0001 0553
+
